@@ -3,13 +3,11 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\header",
-    "\\src\\app\\recipes",
-    "\\src\\app\\recipes\\receipe-detail",
-    "\\src\\app\\recipes\\receipe-list",
     "\\src\\app\\recipes\\receipe-list\\recipe-item",
-    "\\src\\app\\shopping-list"
+    "\\src\\app\\shared",
+    "\\src\\app\\shopping-list",
+    "\\src\\app\\shopping-list\\shopping-edit"
   ],
-  "SelectedNode": "\\src\\app\\header\\header.component.html",
+  "SelectedNode": "\\src\\app\\shopping-list\\shopping-edit\\shopping-edit.component.html",
   "PreviewInSolutionExplorer": false
 }
