@@ -6,6 +6,6 @@
     "\\src\\app\\cockpit",
     "\\src\\app\\server-element"
   ],
-  "SelectedNode": "\\src\\app\\server-element\\server-element.component.css",
+  "SelectedNode": "\\src\\app\\server-element\\server-element.component.ts",
   "PreviewInSolutionExplorer": false
 }
