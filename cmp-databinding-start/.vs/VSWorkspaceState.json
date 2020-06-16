@@ -3,9 +3,8 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\cockpit",
-    "\\src\\app\\server-element"
+    "\\src\\app\\game-control"
   ],
-  "SelectedNode": "\\src\\app\\server-element\\server-element.component.ts",
+  "SelectedNode": "\\src\\app\\game-control\\game-control.component.ts",
   "PreviewInSolutionExplorer": false
 }
