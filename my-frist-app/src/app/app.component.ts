@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'kpl frist-app';
   name = 'kpl';
+  loadedFeature: string = "recipe";
+  onNavigate(feature: string) {
+    this.loadedFeature = feature;
+  }
 }

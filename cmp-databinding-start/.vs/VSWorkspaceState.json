@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\game-control"
+    "\\src\\app\\even",
+    "\\src\\app\\odd"
   ],
-  "SelectedNode": "\\src\\app\\game-control\\game-control.component.ts",
+  "SelectedNode": "\\src\\app\\even\\even.component.css",
   "PreviewInSolutionExplorer": false
 }
