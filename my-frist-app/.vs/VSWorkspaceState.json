@@ -3,14 +3,11 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\recipes",
-    "\\src\\app\\recipes\\receipe-detail",
-    "\\src\\app\\recipes\\receipe-list",
     "\\src\\app\\recipes\\receipe-list\\recipe-item",
     "\\src\\app\\shared",
     "\\src\\app\\shopping-list",
     "\\src\\app\\shopping-list\\shopping-edit"
   ],
-  "SelectedNode": "\\src\\app\\recipes\\receipe-list\\receipe-list.component.ts",
+  "SelectedNode": "\\src\\app\\shopping-list\\shopping-list.component.ts",
   "PreviewInSolutionExplorer": false
 }

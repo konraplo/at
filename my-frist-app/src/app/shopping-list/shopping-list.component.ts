@@ -18,6 +18,13 @@ export class ShoppingListComponent implements OnInit {
   }
 
   onIngredientAdded(ingredient: Ingredient) {
-    this.ingredinets.push(ingredient);
+    if (!this.ingredinets.some(item => item.name === ingredient.name)) {
+      this.ingredinets.push(ingredient);
+    }
+    else {
+      const found = this.ingredinets.find(item => item.name === ingredient.name);
+      let amount: number = Number(found.amount) + Number(ingredient.amount);
+      found.amount = amount;
+    }
   }
 }
